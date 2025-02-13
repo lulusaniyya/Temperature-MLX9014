@@ -1,5 +1,3 @@
-# Temperature-MLX9014
-
 # Temperature Monitoring with MLX9014 Sensor to MQTT Broker
 
 ## Description
