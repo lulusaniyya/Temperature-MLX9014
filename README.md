@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Temperature-MLX9014
-=======
+
 # Temperature Monitoring with MLX9014 Sensor to MQTT Broker
 
 ## Description
@@ -40,4 +39,4 @@ sequenceDiagram
    ```bash
    python3 data_sensor.py
    
->>>>>>> ac7f19d (Initial commit: Add temperature monitoring project)
+
